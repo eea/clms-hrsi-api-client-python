@@ -7,6 +7,7 @@ Before downloading any data you need to register [here](https://cryo.land.copern
 
 ## Other Data access possibilities:
 Web frontend for search and download: https://cryo.land.copernicus.eu/finder  
+Users should notice that using this interactive web interface also generates the corresponding REST query, that can be ingested directly by the Python script.
 
 WMS services:  
 **Snow products**
