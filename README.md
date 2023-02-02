@@ -2,6 +2,8 @@
 
 Python client for accessing the Copernicus Land Monitoring Service HTTP API by means of REST calls. Currenty supported (on server side) are only Data from the [High Resolution Snow and Ice Monitoring (HR-S&I) ](https://land.copernicus.eu/pan-european/biophysical-parameters/high-resolution-snow-and-ice-monitoring).
 
+The Pan-European ARLIE ice products by the CLMS are reachable through the Python client https://github.com/eea/clms-hrsi-api-client-python-arlie 
+
 ## Registration:
 Before downloading any data you need to register [here](https://cryo.land.copernicus.eu/finder).  
 
